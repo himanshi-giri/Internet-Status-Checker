@@ -1,2 +1,2 @@
-# Internet-Status-Checker
+# Palindrome-Checker
 Web Project
